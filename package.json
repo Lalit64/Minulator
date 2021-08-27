@@ -9,7 +9,7 @@
     "dev": "svelte-kit dev",
     "start": "svelte-kit start",
     "preview": "svelte-kit preview",
-    "electron": "concurrently --kill-others \"svelte-kit dev\" \"electron src/electron.ts\"",
+    "electron": "concurrently \"svelte-kit dev\" \"electron src/electron.ts\"",
     "build": "svelte-kit build",
     "dev:package": "yarn build && electron-builder --config electron-builder.config.json --dir",
     "package": "yarn build && electron-builder --config electron-builder.config.json"
