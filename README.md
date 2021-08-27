@@ -8,8 +8,8 @@
 </p>
 
 ## Minulator in Action
-<p align="center" style="border-radius: 10px;">
-    <img src="https://i.ibb.co/bHNS0Yj/image.png" >
+<p align="center" >
+    <img style="border-radius: 10px;" src="https://i.ibb.co/bHNS0Yj/image.png" >
 </p>
 
 ## Installation
